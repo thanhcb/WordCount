@@ -1,3 +1,1 @@
-com/example/wordcount/WordCount$IntSumReducer.class
-com/example/wordcount/WordCount.class
-com/example/wordcount/WordCount$TokenizerMapper.class
+com/example/wordcount/FileSystemCat.class
